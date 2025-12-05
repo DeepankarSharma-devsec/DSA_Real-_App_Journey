@@ -1,2 +1,5 @@
 # Ignore Python virtual environment
 venv/
+
+# Snyk Security Extension - AI Rules (auto-generated)
+.github/instructions/snyk_rules.instructions.md
