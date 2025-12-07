@@ -1,0 +1,26 @@
+[
+  {
+    "amount": 500.0,
+    "category": "Food",
+    "date": "2025-12-01",
+    "note": "Lunch"
+  },
+  {
+    "amount": 1500.0,
+    "category": "Shopping",
+    "date": "2025-12-02",
+    "note": "Clothes"
+  },
+  {
+    "amount": 200.0,
+    "category": "Food",
+    "date": "2025-12-03",
+    "note": "Snacks"
+  },
+  {
+    "amount": 3000.0,
+    "category": "Rent",
+    "date": "2025-12-01",
+    "note": "December rent"
+  }
+]
